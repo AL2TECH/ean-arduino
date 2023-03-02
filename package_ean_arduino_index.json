@@ -13,10 +13,10 @@
           "version": "0.0.1",
           "deprecated": false,
           "category": "Contributed",
-          "url": "https://www.dropbox.com/s/uhmt0l0j71x6jj2/ean-arduino-0.0.1.zip?dl=1",
+          "url": "https://github.com/AL2TECH/ean-arduino/raw/main/ean-arduino-0.0.1.zip",
           "archiveFileName": "ean-arduino-0.0.1.zip",
-          "checksum": "SHA-256:f701c802111ea1f641b4b943cc9cce48c5928e88ffa8a1c04abfc232017fc081",
-          "size": "343455169",
+          "checksum": "SHA-256:6ad27f9cfe7468d72ca0c64fe4acd1a900f718f011d0ae3a5af73ac2bc1f7e6e",
+          "size": "78100907",
           "boards": [
             {
               "name": "EmbeddedAN 002 Board"
