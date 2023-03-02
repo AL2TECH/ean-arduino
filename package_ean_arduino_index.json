@@ -4,7 +4,7 @@
       "name": "ean-arduino",
       "maintainer": "AL2TECH",
       "websiteUrl": "https://al2tech.com",
-      "Url": "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json",
+      "Url": "https://raw.githubusercontent.com/AL2TECH/ean-arduino/main/package_ean_arduino_index.json",
       "email": "info@al2tech.com",
       "platforms": [
         {
@@ -12,11 +12,11 @@
           "architecture": "esp32",
           "version": "0.0.1",
           "deprecated": false,
-          "category": "ESP32",
-          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.7/esp32-2.0.7.zip",
-          "archiveFileName": "esp32-2.0.7.zip",
-          "checksum": "SHA-256:b5a7a54fca36501d1108413310ec50ae2df655c14c3881325903cde2c7ae5f80",
-          "size": "278966011",
+          "category": "Contributed",
+          "url": "https://www.dropbox.com/s/uhmt0l0j71x6jj2/ean-arduino-0.0.1.zip?dl=1",
+          "archiveFileName": "ean-arduino-0.0.1.zip",
+          "checksum": "SHA-256:f701c802111ea1f641b4b943cc9cce48c5928e88ffa8a1c04abfc232017fc081",
+          "size": "343455169",
           "boards": [
             {
               "name": "EmbeddedAN 002 Board"
