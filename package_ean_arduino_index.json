@@ -10,13 +10,13 @@
         {
           "name": "EmbeddedAN Boards",
           "architecture": "esp32",
-          "version": "0.0.5",
+          "version": "0.0.6",
           "deprecated": false,
           "category": "Contributed",
-          "url": "https://github.com/AL2TECH/ean-arduino/raw/main/ean-arduino-0.0.5.zip",
-          "archiveFileName": "ean-arduino-0.0.5.zip",
-          "checksum": "SHA-256:affc8405d010add4573438279d60f9fe4086d61ba52c5a214b9ea3e5a7463c27",
-          "size": "78149902",
+          "url": "https://github.com/AL2TECH/ean-arduino/raw/main/ean-arduino-0.0.6.zip",
+          "archiveFileName": "ean-arduino-0.0.6.zip",
+          "checksum": "SHA-256:63b95a4baca24aa3dc693608e70c811a9af40f692834a591f989e302b3893d9a",
+          "size": "78301879",
           "boards": [
             {
               "name": "EmbeddedAN 002 Board"
